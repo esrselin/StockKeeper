@@ -1,0 +1,35 @@
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\bin\Debug\Form1.exe.config
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\bin\Debug\Form1.exe
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\bin\Debug\Form1.pdb
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.AssemblyReference.cache
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.GenerateResource.cache
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.CoreCompileInputs.cache
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.CopyComplete
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.exe
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.pdb
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\StockKeeper.Login.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.MainPage.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.AddCustomer.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.ListCustomer.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.AddProduct.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.Brand.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.Category.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.ListProduct.resources
+C:\Users\esras\OneDrive\Desktop\stockkeeping\Form1\obj\Debug\Form1.ListSell.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\bin\Debug\Form1.exe.config
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\bin\Debug\Form1.exe
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\bin\Debug\Form1.pdb
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.AssemblyReference.cache
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.Brand.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.Category.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.ListCustomer.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.ListProduct.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\StockKeeper.Login.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.MainPage.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.GenerateResource.cache
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.CoreCompileInputs.cache
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\StockKeeper.csproj.CopyComplete
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.exe
+C:\Users\esras\OneDrive\Desktop\Ders\Visual Programming\Visual Project\stockkeeping\Form1\obj\Debug\Form1.pdb
